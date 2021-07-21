@@ -1,0 +1,20 @@
+body {
+    text-align: center;
+    background-color: #8bf7d5;
+}
+
+div {
+    margin-top: :15px;
+}
+#img {
+    display: :flex;
+    justify-content: :center;
+    width: 300px;
+    height: 300px
+}
+
+section-style {
+    margin-left: 25px;
+    margin-right: 25px;
+    background-color: white;
+}
